@@ -8,6 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    let image = UIImage()
 
     override func viewDidLoad() {
         super.viewDidLoad()
